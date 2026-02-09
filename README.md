@@ -1,6 +1,3 @@
-# Panorama_ArtSource
-블렌더 모델링 및 원화 리소스 저장소
-
 # 🎨 Art Source Repository
 피겨 스케이팅 프로젝트의 3D 모델링 및 텍스처 원본 저장소입니다.
 
