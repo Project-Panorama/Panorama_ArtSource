@@ -1,0 +1,26 @@
+Character Asset_src
+
+CH_Main_Head
+CH_Main_body
+CH_Main_Skates_A
+CH_Main_Skates_B
+CH_Main_Dress_A
+CH_Main_Dress_B
+CH_Main_Hair_A
+CH_Main_Hair_B
+
+CH_Mascot_Fish_A
+CH_Mascot_Fish_B
+
+PR_Main_Pin_A
+PR_Main_Pin_B
+
+
+해당텍스쳐 사용하는 어셋 이름 뒤에
+
+_Basecolor
+_Normal
+_Roughness
+_Displacement
+
+이런식으로 붙이면 될 것 같습니다 :)
